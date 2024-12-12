@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d4531281-4a0f-4341-98ee-93d1f6690092)
+
 Project: Community Resource Locator
 A web application designed to help individuals and families locate essential community resources such as food banks, shelters, employment centers, and affordable healthcare services.
 
